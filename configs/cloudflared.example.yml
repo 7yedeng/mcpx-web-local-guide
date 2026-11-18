@@ -1,0 +1,9 @@
+# Locally-managed Cloudflare Tunnel example; no real credentials are included.
+tunnel: REPLACE_WITH_YOUR_TUNNEL_UUID
+credentials-file: C:/MCPX/private/REPLACE_WITH_YOUR_TUNNEL_UUID.json
+ingress:
+  - hostname: mcp.example.com
+    service: http://127.0.0.1:9090
+    originRequest:
+      httpHostHeader: 127.0.0.1:9090
+  - service: http_status:404

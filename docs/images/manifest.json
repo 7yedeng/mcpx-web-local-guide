@@ -1,0 +1,212 @@
+[
+  {
+    "image": "docs/images/02-chatgpt-add-redacted.png",
+    "captured_date": "2026-10-20",
+    "evidence_type": "historical-ui",
+    "processing": "coordinate solid masks and/or crop; no UI redraw",
+    "source_unchanged": true,
+    "pixel_size": [
+      1385,
+      735
+    ],
+    "sha256": "5701d39c3939ea3c3027b703c8441e858102f2a8ca65196973c536d42694ce27",
+    "visual_review": "reviewed by model native vision; no OCR",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "image": "docs/images/03-chatgpt-connected-redacted.png",
+    "captured_date": "2026-10-20",
+    "evidence_type": "historical-ui",
+    "processing": "coordinate solid masks and/or crop; no UI redraw",
+    "source_unchanged": true,
+    "pixel_size": [
+      1385,
+      735
+    ],
+    "sha256": "5a6db12cfb4472356f6edc020805d12ae82877b5d7eb7717c2165d881edcfa6d",
+    "visual_review": "reviewed by model native vision; no OCR",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "image": "docs/images/04-claude-oauth.png",
+    "captured_date": "2026-11-18",
+    "evidence_type": "retained-same-day",
+    "processing": "coordinate solid masks and/or crop; no UI redraw",
+    "source_unchanged": true,
+    "pixel_size": [
+      1439,
+      735
+    ],
+    "sha256": "3f6a8936d015fb703f9db4234b6e3d090c7a1a09d570932c3d2653f262c9c62f",
+    "visual_review": "reviewed by model native vision; no OCR",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "image": "docs/images/05-claude-tools-redacted.png",
+    "captured_date": "2026-11-18",
+    "evidence_type": "retained-same-day",
+    "processing": "coordinate solid masks and/or crop; no UI redraw",
+    "source_unchanged": true,
+    "pixel_size": [
+      1151,
+      735
+    ],
+    "sha256": "6a9abb3675823e69dc6f122a064511bead4812530d6682c6c5cc1193bd776a46",
+    "visual_review": "reviewed by model native vision; no OCR",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "image": "docs/images/06-claude-free-validation-redacted.png",
+    "captured_date": "2026-11-18",
+    "evidence_type": "retained-same-day",
+    "processing": "coordinate solid masks and/or crop; no UI redraw",
+    "source_unchanged": true,
+    "pixel_size": [
+      1151,
+      735
+    ],
+    "sha256": "bd368dc3c0382d3b9afbbd36b8208730216c759d9c1ae4ce01679cd3fd79dec7",
+    "visual_review": "reviewed by model native vision; no OCR",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "image": "docs/images/07-chatgpt-historical-validation-redacted.png",
+    "captured_date": "2026-10-20",
+    "evidence_type": "historical-ui",
+    "processing": "coordinate solid masks and/or crop; no UI redraw",
+    "source_unchanged": true,
+    "pixel_size": [
+      1385,
+      735
+    ],
+    "sha256": "b0e39bdaf57e801e8dcd6f78d89eb37cc23e060d663fe18698e612937e66f4f1",
+    "visual_review": "reviewed by model native vision; no OCR",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "image": "docs/images/08-chatgpt-plugins.png",
+    "captured_date": "2026-11-18",
+    "evidence_type": "captured-this-run",
+    "processing": "coordinate solid masks and/or crop; no UI redraw",
+    "source_unchanged": true,
+    "pixel_size": [
+      1254,
+      719
+    ],
+    "sha256": "411aacc512ed8fa0e8395569ffb0add7bb873421f8b72e32a3f189798fffc213",
+    "visual_review": "reviewed by model native vision; no OCR",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "image": "docs/images/09-chatgpt-add-menu.png",
+    "captured_date": "2026-11-18",
+    "evidence_type": "captured-this-run",
+    "processing": "coordinate solid masks and/or crop; no UI redraw",
+    "source_unchanged": true,
+    "pixel_size": [
+      1254,
+      719
+    ],
+    "sha256": "59c5a43e445b81059991f8aaf79ffba8420984b3dc00fd9803e692be1e97bfe5",
+    "visual_review": "reviewed by model native vision; no OCR",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "image": "docs/images/10-chatgpt-add-form.png",
+    "captured_date": "2026-11-18",
+    "evidence_type": "captured-this-run",
+    "processing": "coordinate solid masks and/or crop; no UI redraw",
+    "source_unchanged": true,
+    "pixel_size": [
+      1254,
+      719
+    ],
+    "sha256": "19478cf12a66375b6c00a72698143c828e2b7849b19cb7b7f5b6b6321976cecf",
+    "visual_review": "reviewed by model native vision; no OCR",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "image": "docs/images/11-chatgpt-connected.png",
+    "captured_date": "2026-11-18",
+    "evidence_type": "captured-this-run",
+    "processing": "coordinate solid masks and/or crop; no UI redraw",
+    "source_unchanged": true,
+    "pixel_size": [
+      968,
+      719
+    ],
+    "sha256": "d7586b83ebc593f0658ab3bb7f82f6674d747520d211a47a2ad562db9b89b6e0",
+    "visual_review": "reviewed by model native vision; no OCR",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "image": "docs/images/12-claude-plugins.png",
+    "captured_date": "2026-11-18",
+    "evidence_type": "captured-this-run",
+    "processing": "coordinate solid masks and/or crop; no UI redraw",
+    "source_unchanged": true,
+    "pixel_size": [
+      1439,
+      735
+    ],
+    "sha256": "e20fbd6b648a19cd87ca1f1581817ba1cb6b3056be29a48425c5a12760335a85",
+    "visual_review": "reviewed by model native vision; no OCR",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "image": "docs/images/13-claude-add-menu-limit.png",
+    "captured_date": "2026-11-18",
+    "evidence_type": "captured-this-run",
+    "processing": "coordinate solid masks and/or crop; no UI redraw",
+    "source_unchanged": true,
+    "pixel_size": [
+      1439,
+      735
+    ],
+    "sha256": "4edae1330a7cd9e51bff01b2f5f35685e520611990fa5847dd4b49a2bd121d62",
+    "visual_review": "reviewed by model native vision; no OCR",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "image": "docs/images/14-claude-connected.png",
+    "captured_date": "2026-11-18",
+    "evidence_type": "captured-this-run",
+    "processing": "coordinate solid masks and/or crop; no UI redraw",
+    "source_unchanged": true,
+    "pixel_size": [
+      1439,
+      735
+    ],
+    "sha256": "cdf5348b3869d20fc9f6f195a5e46347372b605f49e27c2f9d82674927931418",
+    "visual_review": "reviewed by model native vision; no OCR",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "image": "docs/images/15-claude-tool-permissions.png",
+    "captured_date": "2026-11-18",
+    "evidence_type": "captured-this-run",
+    "processing": "coordinate solid masks and/or crop; no UI redraw",
+    "source_unchanged": true,
+    "pixel_size": [
+      1439,
+      735
+    ],
+    "sha256": "917b61e6bd10900f3ab53b6edcf3f9f2f786af07a6156e2b8e89dfb98a5bada5",
+    "visual_review": "reviewed by model native vision; no OCR",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "image": "docs/images/16-claude-write-tools.png",
+    "captured_date": "2026-11-18",
+    "evidence_type": "captured-this-run",
+    "processing": "coordinate solid masks and/or crop; no UI redraw",
+    "source_unchanged": true,
+    "pixel_size": [
+      1439,
+      735
+    ],
+    "sha256": "b6f0d323da75ab13e64b6d98eb2b5e4740d2499fd24bdcc2998fce6c2789df73",
+    "visual_review": "reviewed by model native vision; no OCR",
+    "unmasked_pixels_unchanged": true
+  }
+]

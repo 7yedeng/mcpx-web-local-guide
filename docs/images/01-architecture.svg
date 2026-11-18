@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-label="网页模型通过MCPX直接操作本机，可选另行委派Codex模型">
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="none" stroke="#475569" stroke-width="1.5"/></marker></defs>
+<rect width="1200" height="620" rx="24" fill="#f5f7fb"/>
+<g font-family="Microsoft YaHei,system-ui,sans-serif" fill="#14243b">
+<text x="56" y="62" font-size="29" font-weight="700">网页负责思考，本机工具负责执行</text>
+<text x="56" y="98" font-size="17" fill="#52627a">直接文件路线不额外启动本机 Codex 模型；网页用量仍按各自套餐计算。</text>
+<rect x="56" y="155" width="265" height="118" rx="18" fill="#fff" stroke="#b2bfd1"/>
+<text x="82" y="195" font-size="22" font-weight="700">Claude / ChatGPT 网页</text><text x="82" y="228" font-size="17">理解任务、规划、写代码、检查</text>
+<rect x="456" y="155" width="277" height="118" rx="18" fill="#eaf3ff" stroke="#73a4d8"/>
+<text x="483" y="195" font-size="22" font-weight="700">MCPX + HTTPS / OAuth</text><text x="483" y="228" font-size="17">身份、工作区、会话、工具校验</text>
+<rect x="870" y="155" width="274" height="118" rx="18" fill="#eaf8ee" stroke="#88b99a"/>
+<text x="898" y="195" font-size="22" font-weight="700">Windows 直接工具</text><text x="898" y="228" font-size="17">读写文件、命令、构建与测试</text>
+<path d="M321 211 H450 M733 211 H864" stroke="#475569" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="341" y="191" font-size="16">调用工具</text><text x="759" y="191" font-size="16">执行操作</text>
+<path d="M1007 276 V319 H188 V276" fill="none" stroke="#648399" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="461" y="350" font-size="17" fill="#52627a">真实结果返回网页，继续检查与迭代</text>
+<rect x="456" y="405" width="688" height="105" rx="18" fill="#fff5e5" stroke="#d2ad6a"/>
+<text x="485" y="444" font-size="22" font-weight="700">可选：另行委派本机 Codex 模型</text>
+<text x="485" y="479" font-size="17">这是另一条路线，需要 Codex 登录、可用模型和相应额度。</text>
+<path d="M594 275 V397" fill="none" stroke="#b38b42" stroke-width="2" stroke-dasharray="6 5" marker-end="url(#arrow)"/>
+<text x="56" y="565" font-size="17" fill="#52627a">电脑保持登录、唤醒、联网。文件操作与浏览器、真实桌面操作分别授权和协调。</text>
+<text x="56" y="594" font-size="14" fill="#718096">作者与 AI 共同整理 · 2026-11-18 · 原理示意图，不是网页截图</text>
+</g></svg>

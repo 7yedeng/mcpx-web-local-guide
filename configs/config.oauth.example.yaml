@@ -1,0 +1,43 @@
+# Example only: edit a private copy, never commit the filled configuration.
+# Target: upstream MCPX v0.9.19. See docs/install-windows.md before use.
+server:
+  host: 127.0.0.1
+  port: 9090
+  # Keep protection enabled; the paired Tunnel example fixes its local Host.
+  disable_localhost_protection: false
+  trust_proxy_headers: false
+auth:
+  mode: oauth
+  oauth:
+    password: "example-replace-with-a-unique-strong-password"
+    server_url: "https://mcp.example.com"
+workspaces:
+  - name: demo
+    path: "C:/MCPX/demo"
+    description: "Disposable tutorial files only"
+security:
+  commands:
+    default: deny
+    auto_allow_readonly: false
+    allow:
+      - '^echo MCPX_CONNECTED_OK$'
+    confirm: []
+    deny: []
+  files:
+    max_read_bytes: 1048576
+    max_patch_files: 5
+    max_patch_lines: 100
+    deny:
+      - '^\.git/'
+      - '^\.env($|[./])'
+terminal:
+  enabled: true
+file_watch:
+  enabled: false
+discovery:
+  mcp:
+    enabled: false
+  skills:
+    enabled: false
+limits:
+  max_result_bytes: 262144
